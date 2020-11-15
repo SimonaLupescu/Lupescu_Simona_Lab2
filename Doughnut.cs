@@ -6,6 +6,7 @@ namespace Lupescu_Simona_Lab2
 {
     class Doughnut
     {
+
         private DoughnutType mFlavor;
 
         public DoughnutType Flavor
@@ -45,4 +46,5 @@ namespace Lupescu_Simona_Lab2
         Chocolate,
         Vanilla
     }
+
 }
